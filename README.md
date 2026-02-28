@@ -1,0 +1,2 @@
+# NS-DACFs-BOWP
+NSMACFS：神经符号一维突触自适应认知场系统以及基于NSMACFS认知动力学的Transformer注意力架构
